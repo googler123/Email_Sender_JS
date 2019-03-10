@@ -1,3 +1,5 @@
+// for email to be sent you have to allow "third party access" by going to Settings>>Security>>allow third party access   !!!!!
+
 var nodemailer = require('nodemailer');
 
 var transporter = nodemailer.createTransport({
