@@ -1,4 +1,4 @@
-// for email to be sent you have to allow "third party access" by going to Settings>>Security>>allow third party access   !!!!!
+// for email to be sent you have to allow "third party access" by going to Settings>>Security>>allow "third party app access"   !!!!!
 
 var nodemailer = require('nodemailer');
 
